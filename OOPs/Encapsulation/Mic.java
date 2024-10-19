@@ -1,6 +1,6 @@
 import java.lang.reflect.Method;
 
-public class Main {
+public class Mic {
     public static void main(String[] args) {
         Client client = new Client();
         System.out.println(client.getName("Rakesh"));
